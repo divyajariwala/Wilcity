@@ -1,0 +1,13 @@
+{
+  "api": {
+    "baseUrl": "https://wilcityapp.com",
+    "timeout": 30000
+  },
+  "colorPrimary": "#d81340",
+  "loginScreenStartApp": {
+    "enable": true,
+    "skipButtonText": "Skip",
+    "title": "WilCity Application",
+    "text": "Build any type of directory with the fastest and easiest for WordPress"
+  }
+}
